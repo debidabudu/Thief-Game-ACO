@@ -14,6 +14,13 @@
   https://creativecommons.org/licenses/by/4.0/  
 - **THIEF**: AntumDeluge (Downloaded from [opengameart.org](https://opengameart.org/content/thief-0))  
   License: CC-BY-SA 3.0. https://creativecommons.org/licenses/by-sa/3.0/
+    **Art by Svetlana Kushnariova**  
+    Email: [lana-chan@yandex.ru](lana-chan@yandex.ru)
+    License: Attribution required. Used with permission.
+    **Hair asset by Fabzy**  
+    License: CC BY-SA 3.0.  
+    (If you modify it, ensure it stays under the same license, or you may relicense if you fully replace it.)
+
 - **Interior Tileset Asset Pack- 16x16**: Rcp Studios (Downloaded from [itch.io](https://rcpstd.itch.io/interior-tileset-asset-pack-16x16))
   License: Free for commercial and non-commercial use.
   
