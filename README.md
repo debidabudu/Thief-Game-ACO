@@ -3,7 +3,7 @@
 This is a Unity-based game where the player assumes the role of a thief navigating a space while avoiding detection by homeowners using Ant Colony Optimization for pathfinding.
 
 ## Play the Game
-[Click here to play the game!](https://www.facebook.com/debidabadu/) <-- Will be updated
+[Click here to play the game!](https://thiefs-fortune.vercel.app/)
 
 ## About the Project
 - **Engine**: Unity
